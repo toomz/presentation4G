@@ -143,3 +143,10 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #3b759e; }
+
+.reveal table td{
+  text-align: center;
+}
+.reveal .tableau td{
+  font-size: 20px;
+}
